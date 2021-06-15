@@ -5,6 +5,7 @@ int head, tail;
 
 int check(char* str, int len, int i)
 {
+    //  escape the rim situation
     head = i - 1, tail = i + 1;
     if (head < 0 && str[i] == str[tail]) return 2;
     else if(head < 0 && str[i] != str[tail])
@@ -18,6 +19,7 @@ int check(char* str, int len, int i)
         tail = head = i;
         return 1;
     }
+    //  deal the odd situation
     if (str[head] != str[tail])
     {
         if (str[head] == str[i])
@@ -34,6 +36,7 @@ int check(char* str, int len, int i)
             return 1;
         }
     }
+    //  expand as possible
     while (str[head] == str[tail] && head >= 0 && tail < len)
     {
         head--, tail++;
