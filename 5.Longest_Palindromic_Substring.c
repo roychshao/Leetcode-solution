@@ -1,70 +1,55 @@
-#include <stdio.h>
-#include <string.h>
+int dp[1000][1000];
 
-int head, tail;
-
-int check(char* str, int len, int i)
+int judge(char* s, int j, int i)
 {
-    //  escape the rim situation
-    head = i - 1, tail = i + 1;
-    if (head < 0 && str[i] == str[tail]) return 2;
-    else if(head < 0 && str[i] != str[tail])
+    if (i == j)
     {
-        head = tail = i;
+        dp[i][j] = 1;
         return 1;
     }
-    if (tail >= len && str[i] == str[head])  return 2;
-    else if( tail >= len && str[i] != str[head])
+    if (j == (i - 1))
     {
-        tail = head = i;
-        return 1;
-    }
-    //  deal the odd situation
-    if (str[head] != str[tail])
-    {
-        if (str[head] == str[i])
+        if (s[j] == s[i])
         {
-            head--;
-        }
-        else if (str[tail] == str[i])
-        {
-            tail++;
-        }
-        else
-        {
-            head = tail;
+            dp[i][j] = 1;
             return 1;
         }
+        else
+            return 0;
     }
-    //  expand as possible
-    while (str[head] == str[tail] && head >= 0 && tail < len)
+    if (dp[i - 1][j + 1] == 1 && s[i] == s[j])
     {
-        head--, tail++;
+        dp[i][j] = 1;
+        return 1;
     }
-    head++, tail--;
-    return (tail - head + 1);
+    else
+        return 0;
 }
 
-
-int main()
+char * longestPalindrome(char* s)
 {
-    char str[1000];
-    int temp = 0, ans = 0;
-    int left = 0, right = 0;
-    fgets(str, 1000, stdin);
-    int len = strlen(str) - 1;
+    int len = strlen(s);
+    int left = 0, right = 0, maxlen = 0;
+    memset(dp, 0, sizeof(dp));
+    dp[0][0] = 1;
     for (int i = 0; i < len; ++i)
     {
-        temp = check(str, len, i);
-        if (temp > ans)
+        for (int j = 0; j <= i; ++j)
         {
-            ans = temp;
-            left = head, right = tail;
+            //  if s[j] ~ s[i] is palindrome.
+            if (judge(s, j, i))
+            {
+                if ((i - j) > maxlen)
+                {
+                    maxlen = (i - j);
+                    left = j, right = i;
+                }
+            }
         }
     }
-    for (int i = left; i <= right; ++i)
-    {
-        printf("%c", str[i]);
-    }
-    return 0;
+    char *ans = (char*)malloc((maxlen+2)*sizeof(char));
+    for(int i=left,j=0;i<=right;i++,j++)
+        ans[j] = s[i];
+    ans[maxlen+1] = '\0';
+    return ans;
 }
