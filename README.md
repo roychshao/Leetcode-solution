@@ -1,3 +1,3 @@
 # Leetcode
 ---
-leetcode solution by royshao
+leetcode solution solved by royshao
