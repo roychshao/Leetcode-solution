@@ -9,3 +9,16 @@ public:
         return nums.back();
     }
 };
+
+/* another smart solution use XOR gate
+ * because each element with frequency 2 after twice XOR with become 0
+ * so we can just traverse every element and do XOR
+ * then those elements with frequency 2 will be filtered and remains our ans
+ * 
+ * int singleNumber(vector<int>& nums) {
+ *     int ans = 0;
+ *     for(auto it:nums)
+ *         ans ^= it;
+ *     return ans;
+ * }
+ */ 
