@@ -1,0 +1,5 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+hammingWeight	/home/roy/codes/Leetcode-solution/191.Number_of_1_Bits.cpp	/^    int hammingWeight(uint32_t n) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
+Solution	/home/roy/codes/Leetcode-solution/15.3Sum.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/191.Number_of_1_Bits.cpp	/^class Solution {$/;"	c	language:C++	file:
+threeSum	/home/roy/codes/Leetcode-solution/15.3Sum.cpp	/^    vector<vector<int>> threeSum(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
