@@ -7,6 +7,7 @@ hammingWeight	/home/roy/codes/Leetcode-solution/191.Number_of_1_Bits.cpp	/^    i
 init	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    void init () {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 isValid	/home/roy/codes/Leetcode-solution/20.Valid_Parentheses.cpp	/^    bool isValid(string s) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 letterCombinations	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    vector<string> letterCombinations(string digits) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<string>	file:
+longestValidParentheses	/home/roy/codes/Leetcode-solution/32.Longest_Valid_Parentheses.cpp	/^    int longestValidParentheses(string str) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 map	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    vector<string> map;$/;"	m	language:C++	class:Solution	typeref:typename:vector<string>	file:
 nextPermutation	/home/roy/codes/Leetcode-solution/31.Next_Permutation.cpp	/^    void nextPermutation(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 preprocess	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    vector<int> preprocess(string& s) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
@@ -23,6 +24,7 @@ Solution	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^class Solut
 Solution	/home/roy/codes/Leetcode-solution/29.Divide_Two_Integers.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/30.Substring_with_Concatenation_of_All_Words.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/31.Next_Permutation.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/32.Longest_Valid_Parentheses.cpp	/^class Solution {$/;"	c	language:C++	file:
 strStr	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    int strStr(string haystack, string needle) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 swap	/home/roy/codes/Leetcode-solution/31.Next_Permutation.cpp	/^    void swap(vector<int>& nums, int i, int j) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 threeSum	/home/roy/codes/Leetcode-solution/15.3Sum.cpp	/^    vector<vector<int>> threeSum(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
