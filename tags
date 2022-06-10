@@ -1,8 +1,10 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
 ans	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    vector<string> ans;$/;"	m	language:C++	class:Solution	typeref:typename:vector<string>	file:
 ans	/home/roy/codes/Leetcode-solution/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp	/^    vector<int> ans;$/;"	m	language:C++	class:Solution	typeref:typename:vector<int>	file:
+ans	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^    vector<int> ans;$/;"	m	language:C++	class:Solution	typeref:typename:vector<int>	file:
 binarySearch	/home/roy/codes/Leetcode-solution/33.Search_in_Rotated_Sorted_Array.cpp	/^        int binarySearch(vector<int>& nums, int target, int head, int tail) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 binarySearch	/home/roy/codes/Leetcode-solution/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp	/^    void binarySearch(vector<int>& nums, int target, int head, int tail) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+combinationSum2	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 divide	/home/roy/codes/Leetcode-solution/29.Divide_Two_Integers.cpp	/^    int divide(int a, int b) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 findSubstring	/home/roy/codes/Leetcode-solution/30.Substring_with_Concatenation_of_All_Words.cpp	/^    vector<int> findSubstring(string s, vector<string>& words) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 fourSum	/home/roy/codes/Leetcode-solution/18.4Sum.cpp	/^        vector<vector<int>> fourSum(vector<int>& v, int &k) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
@@ -34,9 +36,11 @@ Solution	/home/roy/codes/Leetcode-solution/32.Longest_Valid_Parentheses.cpp	/^cl
 Solution	/home/roy/codes/Leetcode-solution/33.Search_in_Rotated_Sorted_Array.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^class Solution {$/;"	c	language:C++	file:
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 strStr	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    int strStr(string haystack, string needle) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 swap	/home/roy/codes/Leetcode-solution/31.Next_Permutation.cpp	/^    void swap(vector<int>& nums, int i, int j) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+temp	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^    vector<int> temp;$/;"	m	language:C++	class:Solution	typeref:typename:vector<int>	file:
 threeSum	/home/roy/codes/Leetcode-solution/15.3Sum.cpp	/^    vector<vector<int>> threeSum(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 traversal	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    void traversal (int l, string tmp, string &digits) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
