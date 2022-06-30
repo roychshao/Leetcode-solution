@@ -11,6 +11,7 @@ findSubstring	/home/roy/codes/Leetcode-solution/30.Substring_with_Concatenation_
 fourSum	/home/roy/codes/Leetcode-solution/18.4Sum.cpp	/^        vector<vector<int>> fourSum(vector<int>& v, int &k) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 hammingWeight	/home/roy/codes/Leetcode-solution/191.Number_of_1_Bits.cpp	/^    int hammingWeight(uint32_t n) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 init	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    void init () {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+isMatch	/home/roy/codes/Leetcode-solution/44.Wildcard_Matching.cpp	/^    bool isMatch(string s, string p) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isValid	/home/roy/codes/Leetcode-solution/20.Valid_Parentheses.cpp	/^    bool isValid(string s) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 is_safe	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool is_safe(char ch,int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 letterCombinations	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    vector<string> letterCombinations(string digits) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<string>	file:
@@ -41,6 +42,7 @@ Solution	/home/roy/codes/Leetcode-solution/34.Find_First_and_Last_Position_of_El
 Solution	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/43.Multiply_Strings.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/44.Wildcard_Matching.cpp	/^class Solution {$/;"	c	language:C++	file:
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 strStr	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    int strStr(string haystack, string needle) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
