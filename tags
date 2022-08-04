@@ -17,10 +17,12 @@ init	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.
 isMatch	/home/roy/codes/Leetcode-solution/44.Wildcard_Matching.cpp	/^    bool isMatch(string s, string p) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isValid	/home/roy/codes/Leetcode-solution/20.Valid_Parentheses.cpp	/^    bool isValid(string s) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isValid	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    bool isValid(vector<string>& queens, int row, int col) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
+isValid	/home/roy/codes/Leetcode-solution/52.N-Queens_II.cpp	/^    bool isValid(vector<string>& queens, int row, int col) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 is_safe	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool is_safe(char ch,int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 letterCombinations	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    vector<string> letterCombinations(string digits) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<string>	file:
 longestValidParentheses	/home/roy/codes/Leetcode-solution/32.Longest_Valid_Parentheses.cpp	/^    int longestValidParentheses(string str) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 map	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    vector<string> map;$/;"	m	language:C++	class:Solution	typeref:typename:vector<string>	file:
+maxSubArray	/home/roy/codes/Leetcode-solution/53.Maximum_Subarray.cpp	/^    int maxSubArray(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 multiply	/home/roy/codes/Leetcode-solution/43.Multiply_Strings.cpp	/^    string multiply(string num1, string num2) {$/;"	f	language:C++	class:Solution	typeref:typename:string	file:
 nextPermutation	/home/roy/codes/Leetcode-solution/31.Next_Permutation.cpp	/^    void nextPermutation(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 permute	/home/roy/codes/Leetcode-solution/46.Permutations.cpp	/^    vector<vector<int>> permute(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
@@ -53,6 +55,8 @@ Solution	/home/roy/codes/Leetcode-solution/46.Permutations.cpp	/^class Solution 
 Solution	/home/roy/codes/Leetcode-solution/47.Permutations_II.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/49.Group_Anagrams.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/52.N-Queens_II.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/53.Maximum_Subarray.cpp	/^class Solution {$/;"	c	language:C++	file:
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveNQueens	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    vector<vector<string>> solveNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<string>>	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
@@ -60,7 +64,9 @@ strStr	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    int strSt
 swap	/home/roy/codes/Leetcode-solution/31.Next_Permutation.cpp	/^    void swap(vector<int>& nums, int i, int j) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 temp	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^    vector<int> temp;$/;"	m	language:C++	class:Solution	typeref:typename:vector<int>	file:
 threeSum	/home/roy/codes/Leetcode-solution/15.3Sum.cpp	/^    vector<vector<int>> threeSum(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
+totalNQueens	/home/roy/codes/Leetcode-solution/52.N-Queens_II.cpp	/^    int totalNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 traversal	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    void traversal (int l, string tmp, string &digits) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 traverse	/home/roy/codes/Leetcode-solution/46.Permutations.cpp	/^    void traverse(vector<int> nums, int idx) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 traverse	/home/roy/codes/Leetcode-solution/47.Permutations_II.cpp	/^    void traverse(vector<int> nums, int idx) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 traverse	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    void traverse(int row, vector<string> &rowStr, vector<vector<string>> &ans) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+traverse	/home/roy/codes/Leetcode-solution/52.N-Queens_II.cpp	/^    void traverse(int row, vector<string> &rowStr, vector<vector<string>> &ans) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
