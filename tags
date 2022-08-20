@@ -57,9 +57,11 @@ Solution	/home/roy/codes/Leetcode-solution/49.Group_Anagrams.cpp	/^class Solutio
 Solution	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/52.N-Queens_II.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/53.Maximum_Subarray.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/54.Spiral_Matrix.cpp	/^class Solution {$/;"	c	language:C++	file:
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveNQueens	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    vector<vector<string>> solveNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<string>>	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+spiralOrder	/home/roy/codes/Leetcode-solution/54.Spiral_Matrix.cpp	/^    vector<int> spiralOrder(vector<vector<int>>& matrix) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 strStr	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    int strStr(string haystack, string needle) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 swap	/home/roy/codes/Leetcode-solution/31.Next_Permutation.cpp	/^    void swap(vector<int>& nums, int i, int j) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 temp	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^    vector<int> temp;$/;"	m	language:C++	class:Solution	typeref:typename:vector<int>	file:
