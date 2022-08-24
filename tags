@@ -15,6 +15,7 @@ fourSum	/home/roy/codes/Leetcode-solution/18.4Sum.cpp	/^        vector<vector<in
 groupAnagrams	/home/roy/codes/Leetcode-solution/49.Group_Anagrams.cpp	/^    vector<vector<string>> groupAnagrams(vector<string>& strs) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<string>>	file:
 hammingWeight	/home/roy/codes/Leetcode-solution/191.Number_of_1_Bits.cpp	/^    int hammingWeight(uint32_t n) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 init	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    void init () {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+insert	/home/roy/codes/Leetcode-solution/57.Insert_Interval.cpp	/^        vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 isMatch	/home/roy/codes/Leetcode-solution/44.Wildcard_Matching.cpp	/^    bool isMatch(string s, string p) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isPalindrome	/home/roy/codes/Leetcode-solution/234.Palindrome_Linked_List.cpp	/^        bool isPalindrome(ListNode* head) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isPowerOfFour	/home/roy/codes/Leetcode-solution/342.Power_of_Four.cpp	/^    bool isPowerOfFour(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
@@ -67,6 +68,7 @@ Solution	/home/roy/codes/Leetcode-solution/52.N-Queens_II.cpp	/^class Solution {
 Solution	/home/roy/codes/Leetcode-solution/53.Maximum_Subarray.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/54.Spiral_Matrix.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/56.Merge_Intervals.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/57.Insert_Interval.cpp	/^class Solution {$/;"	c	language:C++	file:
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveNQueens	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    vector<vector<string>> solveNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<string>>	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
