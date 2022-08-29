@@ -9,6 +9,7 @@ binarySearch	/home/roy/codes/Leetcode-solution/34.Find_First_and_Last_Position_o
 choose	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^    void choose(vector<int> candidates, int target, int j){$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 cmp	/home/roy/codes/Leetcode-solution/56.Merge_Intervals.cpp	/^bool cmp(const vector<int> a, const vector<int> b) {$/;"	f	language:C++	typeref:typename:bool
 combinationSum2	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
+diagonalSort	/home/roy/codes/Leetcode-solution/1329.Sort_the_Matrix_Diagonally.cpp	/^    vector<vector<int>> diagonalSort(vector<vector<int>>& mat) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 divide	/home/roy/codes/Leetcode-solution/29.Divide_Two_Integers.cpp	/^    int divide(int a, int b) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 findSubstring	/home/roy/codes/Leetcode-solution/30.Substring_with_Concatenation_of_All_Words.cpp	/^    vector<int> findSubstring(string s, vector<string>& words) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 fourSum	/home/roy/codes/Leetcode-solution/18.4Sum.cpp	/^        vector<vector<int>> fourSum(vector<int>& v, int &k) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
@@ -24,6 +25,7 @@ isValid	/home/roy/codes/Leetcode-solution/20.Valid_Parentheses.cpp	/^    bool is
 isValid	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    bool isValid(vector<string>& queens, int row, int col) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isValid	/home/roy/codes/Leetcode-solution/52.N-Queens_II.cpp	/^    bool isValid(vector<string>& queens, int row, int col) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 is_safe	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool is_safe(char ch,int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
+lengthOfLastWord	/home/roy/codes/Leetcode-solution/58.Length_of_Last_Word.cpp	/^    int lengthOfLastWord(string s) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 letterCombinations	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    vector<string> letterCombinations(string digits) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<string>	file:
 longestValidParentheses	/home/roy/codes/Leetcode-solution/32.Longest_Valid_Parentheses.cpp	/^    int longestValidParentheses(string str) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 map	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    vector<string> map;$/;"	m	language:C++	class:Solution	typeref:typename:vector<string>	file:
@@ -31,6 +33,7 @@ maxSubArray	/home/roy/codes/Leetcode-solution/53.Maximum_Subarray.cpp	/^    int 
 merge	/home/roy/codes/Leetcode-solution/56.Merge_Intervals.cpp	/^    vector<vector<int>> merge(vector<vector<int>>& intervals) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 multiply	/home/roy/codes/Leetcode-solution/43.Multiply_Strings.cpp	/^    string multiply(string num1, string num2) {$/;"	f	language:C++	class:Solution	typeref:typename:string	file:
 nextPermutation	/home/roy/codes/Leetcode-solution/31.Next_Permutation.cpp	/^    void nextPermutation(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+numIslands	/home/roy/codes/Leetcode-solution/200.Number_of_Islands.cpp	/^    int numIslands(vector<vector<char>>& grid) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 permute	/home/roy/codes/Leetcode-solution/46.Permutations.cpp	/^    vector<vector<int>> permute(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 permuteUnique	/home/roy/codes/Leetcode-solution/47.Permutations_II.cpp	/^    vector<vector<int>> permuteUnique(vector<int>& nums) { $/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 preprocess	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    vector<int> preprocess(string& s) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
@@ -39,11 +42,13 @@ removeElement	/home/roy/codes/Leetcode-solution/27.Remove_Element.cpp	/^    int 
 search	/home/roy/codes/Leetcode-solution/33.Search_in_Rotated_Sorted_Array.cpp	/^        int search(vector<int>& nums, int target) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 searchRange	/home/roy/codes/Leetcode-solution/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp	/^    vector<int> searchRange(vector<int>& nums, int target) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 singleMultiply	/home/roy/codes/Leetcode-solution/43.Multiply_Strings.cpp	/^    vector<int> singleMultiply(int digit1, int digit2, int carrier) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
+Solution	/home/roy/codes/Leetcode-solution/1329.Sort_the_Matrix_Diagonally.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/15.3Sum.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/18.4Sum.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/191.Number_of_1_Bits.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/20.Valid_Parentheses.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/200.Number_of_Islands.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/234.Palindrome_Linked_List.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/26.Remove_Duplicates_from_Sorted_Array.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/27.Remove_Element.cpp	/^class Solution {$/;"	c	language:C++	file:
@@ -69,17 +74,21 @@ Solution	/home/roy/codes/Leetcode-solution/53.Maximum_Subarray.cpp	/^class Solut
 Solution	/home/roy/codes/Leetcode-solution/54.Spiral_Matrix.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/56.Merge_Intervals.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/57.Insert_Interval.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/58.Length_of_Last_Word.cpp	/^class Solution {$/;"	c	language:C++	file:
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveNQueens	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    vector<vector<string>> solveNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<string>>	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+sortTemplate	/home/roy/codes/Leetcode-solution/1329.Sort_the_Matrix_Diagonally.cpp	/^    void sortTemplate(int i1, int j1, vector<vector<int>>& mat) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 spiralOrder	/home/roy/codes/Leetcode-solution/54.Spiral_Matrix.cpp	/^    vector<int> spiralOrder(vector<vector<int>>& matrix) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 strStr	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    int strStr(string haystack, string needle) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
+swap	/home/roy/codes/Leetcode-solution/1329.Sort_the_Matrix_Diagonally.cpp	/^    void swap(int a, int b, int c, int d, vector<vector<int>>& mat) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 swap	/home/roy/codes/Leetcode-solution/31.Next_Permutation.cpp	/^    void swap(vector<int>& nums, int i, int j) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 swap	/home/roy/codes/Leetcode-solution/56.Merge_Intervals.cpp	/^    void swap(vector<int>& a, vector<int>& b) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 temp	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^    vector<int> temp;$/;"	m	language:C++	class:Solution	typeref:typename:vector<int>	file:
 threeSum	/home/roy/codes/Leetcode-solution/15.3Sum.cpp	/^    vector<vector<int>> threeSum(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 totalNQueens	/home/roy/codes/Leetcode-solution/52.N-Queens_II.cpp	/^    int totalNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 traversal	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    void traversal (int l, string tmp, string &digits) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+traverse	/home/roy/codes/Leetcode-solution/200.Number_of_Islands.cpp	/^    void traverse(int i, int j, vector<vector<char>>& grid, int m, int n) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 traverse	/home/roy/codes/Leetcode-solution/46.Permutations.cpp	/^    void traverse(vector<int> nums, int idx) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 traverse	/home/roy/codes/Leetcode-solution/47.Permutations_II.cpp	/^    void traverse(vector<int> nums, int idx) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 traverse	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    void traverse(int row, vector<string> &rowStr, vector<vector<string>> &ans) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
