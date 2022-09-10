@@ -48,6 +48,7 @@ permuteUnique	/home/roy/codes/Leetcode-solution/47.Permutations_II.cpp	/^    vec
 preprocess	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    vector<int> preprocess(string& s) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 removeDuplicates	/home/roy/codes/Leetcode-solution/26.Remove_Duplicates_from_Sorted_Array.cpp	/^    int removeDuplicates(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 removeElement	/home/roy/codes/Leetcode-solution/27.Remove_Element.cpp	/^    int removeElement(vector<int>& nums, int val) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
+rotateRight	/home/roy/codes/Leetcode-solution/61.Rotate_List.cpp	/^    ListNode* rotateRight(ListNode* head, int k) {$/;"	f	language:C++	class:Solution	typeref:typename:ListNode *	file:
 search	/home/roy/codes/Leetcode-solution/33.Search_in_Rotated_Sorted_Array.cpp	/^        int search(vector<int>& nums, int target) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 searchRange	/home/roy/codes/Leetcode-solution/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp	/^    vector<int> searchRange(vector<int>& nums, int target) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 singleMultiply	/home/roy/codes/Leetcode-solution/43.Multiply_Strings.cpp	/^    vector<int> singleMultiply(int digit1, int digit2, int carrier) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
@@ -87,6 +88,7 @@ Solution	/home/roy/codes/Leetcode-solution/57.Insert_Interval.cpp	/^class Soluti
 Solution	/home/roy/codes/Leetcode-solution/58.Length_of_Last_Word.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/59.Spiral_Matrix_II.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/60.Permutation_Sequence.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/61.Rotate_List.cpp	/^class Solution {$/;"	c	language:C++	file:
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveNQueens	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    vector<vector<string>> solveNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<string>>	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
