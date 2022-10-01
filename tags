@@ -32,6 +32,7 @@ insert	/home/roy/codes/Leetcode-solution/57.Insert_Interval.cpp	/^        vector
 isEmpty	/home/roy/codes/Leetcode-solution/622.Design_Circular_Queue.cpp	/^    bool isEmpty() {$/;"	f	language:C++	class:MyCircularQueue	typeref:typename:bool	file:
 isFull	/home/roy/codes/Leetcode-solution/622.Design_Circular_Queue.cpp	/^    bool isFull() {$/;"	f	language:C++	class:MyCircularQueue	typeref:typename:bool	file:
 isMatch	/home/roy/codes/Leetcode-solution/44.Wildcard_Matching.cpp	/^    bool isMatch(string s, string p) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
+isNumber	/home/roy/codes/Leetcode-solution/65.Valid_Number.cpp	/^    bool isNumber(string s) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isPalindrome	/home/roy/codes/Leetcode-solution/234.Palindrome_Linked_List.cpp	/^        bool isPalindrome(ListNode* head) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isPowerOfFour	/home/roy/codes/Leetcode-solution/342.Power_of_Four.cpp	/^    bool isPowerOfFour(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isPowerOfThree	/home/roy/codes/Leetcode-solution/326.Power_of_Three.cpp	/^    bool isPowerOfThree(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
@@ -105,6 +106,7 @@ Solution	/home/roy/codes/Leetcode-solution/60.Permutation_Sequence.cpp	/^class S
 Solution	/home/roy/codes/Leetcode-solution/61.Rotate_List.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/63.Unique_Paths_II.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/64.Minimum_Path_Sum.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/65.Valid_Number.cpp	/^class Solution {$/;"	c	language:C++	file:
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveNQueens	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    vector<vector<string>> solveNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<string>>	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
