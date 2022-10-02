@@ -1,4 +1,5 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+addBinary	/home/roy/codes/Leetcode-solution/67.Add_Binary.cpp	/^    string addBinary(string a, string b) {$/;"	f	language:C++	class:Solution	typeref:typename:string	file:
 ans	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    vector<string> ans;$/;"	m	language:C++	class:Solution	typeref:typename:vector<string>	file:
 ans	/home/roy/codes/Leetcode-solution/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp	/^    vector<int> ans;$/;"	m	language:C++	class:Solution	typeref:typename:vector<int>	file:
 ans	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^    vector<vector<int>> ans;$/;"	m	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
@@ -48,6 +49,7 @@ MARKED	/home/roy/codes/Leetcode-solution/417.Pacific_Atlantic_Water_Flow.cpp	/^#
 maxSubArray	/home/roy/codes/Leetcode-solution/53.Maximum_Subarray.cpp	/^    int maxSubArray(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 merge	/home/roy/codes/Leetcode-solution/56.Merge_Intervals.cpp	/^    vector<vector<int>> merge(vector<vector<int>>& intervals) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 Min	/home/roy/codes/Leetcode-solution/64.Minimum_Path_Sum.cpp	/^    int Min(int a, int b) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
+MIN	/home/roy/codes/Leetcode-solution/67.Add_Binary.cpp	/^#define MIN(/;"	d	language:C++	file:
 minPathSum	/home/roy/codes/Leetcode-solution/64.Minimum_Path_Sum.cpp	/^    int minPathSum(vector<vector<int>>& grid) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 multiply	/home/roy/codes/Leetcode-solution/43.Multiply_Strings.cpp	/^    string multiply(string num1, string num2) {$/;"	f	language:C++	class:Solution	typeref:typename:string	file:
 MyCircularQueue	/home/roy/codes/Leetcode-solution/622.Design_Circular_Queue.cpp	/^    MyCircularQueue(int k) {$/;"	f	language:C++	class:MyCircularQueue	file:
@@ -58,6 +60,7 @@ numIslands	/home/roy/codes/Leetcode-solution/200.Number_of_Islands.cpp	/^    int
 pacificAtlantic	/home/roy/codes/Leetcode-solution/417.Pacific_Atlantic_Water_Flow.cpp	/^    vector<vector<int>> pacificAtlantic(vector<vector<int>>& heights) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 permute	/home/roy/codes/Leetcode-solution/46.Permutations.cpp	/^    vector<vector<int>> permute(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 permuteUnique	/home/roy/codes/Leetcode-solution/47.Permutations_II.cpp	/^    vector<vector<int>> permuteUnique(vector<int>& nums) { $/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
+plusOne	/home/roy/codes/Leetcode-solution/66.Plus_One.cpp	/^    vector<int> plusOne(vector<int>& digits) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 preprocess	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    vector<int> preprocess(string& s) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 queueBlock	/home/roy/codes/Leetcode-solution/622.Design_Circular_Queue.cpp	/^struct queueBlock {$/;"	s	language:C++	file:
 Rear	/home/roy/codes/Leetcode-solution/622.Design_Circular_Queue.cpp	/^    int Rear() {$/;"	f	language:C++	class:MyCircularQueue	typeref:typename:int	file:
@@ -107,6 +110,8 @@ Solution	/home/roy/codes/Leetcode-solution/61.Rotate_List.cpp	/^class Solution {
 Solution	/home/roy/codes/Leetcode-solution/63.Unique_Paths_II.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/64.Minimum_Path_Sum.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/65.Valid_Number.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/66.Plus_One.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/67.Add_Binary.cpp	/^class Solution {$/;"	c	language:C++	file:
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveNQueens	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    vector<vector<string>> solveNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<string>>	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
