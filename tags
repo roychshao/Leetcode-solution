@@ -37,6 +37,7 @@ isNumber	/home/roy/codes/Leetcode-solution/65.Valid_Number.cpp	/^    bool isNumb
 isPalindrome	/home/roy/codes/Leetcode-solution/234.Palindrome_Linked_List.cpp	/^        bool isPalindrome(ListNode* head) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isPowerOfFour	/home/roy/codes/Leetcode-solution/342.Power_of_Four.cpp	/^    bool isPowerOfFour(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isPowerOfThree	/home/roy/codes/Leetcode-solution/326.Power_of_Three.cpp	/^    bool isPowerOfThree(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
+isSymmetric	/home/roy/codes/Leetcode-solution/101.Symmetric_Tree.cpp	/^    bool isSymmetric(TreeNode* root) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isValid	/home/roy/codes/Leetcode-solution/20.Valid_Parentheses.cpp	/^    bool isValid(string s) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isValid	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    bool isValid(vector<string>& queens, int row, int col) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 isValid	/home/roy/codes/Leetcode-solution/52.N-Queens_II.cpp	/^    bool isValid(vector<string>& queens, int row, int col) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
@@ -70,6 +71,7 @@ rotateRight	/home/roy/codes/Leetcode-solution/61.Rotate_List.cpp	/^    ListNode*
 search	/home/roy/codes/Leetcode-solution/33.Search_in_Rotated_Sorted_Array.cpp	/^        int search(vector<int>& nums, int target) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 searchRange	/home/roy/codes/Leetcode-solution/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp	/^    vector<int> searchRange(vector<int>& nums, int target) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 singleMultiply	/home/roy/codes/Leetcode-solution/43.Multiply_Strings.cpp	/^    vector<int> singleMultiply(int digit1, int digit2, int carrier) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
+Solution	/home/roy/codes/Leetcode-solution/101.Symmetric_Tree.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/1329.Sort_the_Matrix_Diagonally.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/15.3Sum.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^class Solution {$/;"	c	language:C++	file:
@@ -127,6 +129,7 @@ temp	/home/roy/codes/Leetcode-solution/40.Combination_Sum_II.cpp	/^    vector<in
 threeSum	/home/roy/codes/Leetcode-solution/15.3Sum.cpp	/^    vector<vector<int>> threeSum(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 totalNQueens	/home/roy/codes/Leetcode-solution/52.N-Queens_II.cpp	/^    int totalNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 traversal	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    void traversal (int l, string tmp, string &digits) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+traverse	/home/roy/codes/Leetcode-solution/101.Symmetric_Tree.cpp	/^    bool traverse(TreeNode* left, TreeNode* right) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 traverse	/home/roy/codes/Leetcode-solution/200.Number_of_Islands.cpp	/^    void traverse(int i, int j, vector<vector<char>>& grid, int m, int n) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 traverse	/home/roy/codes/Leetcode-solution/417.Pacific_Atlantic_Water_Flow.cpp	/^    bool traverse(int i, int j, vector<vector<int>>& map) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 traverse	/home/roy/codes/Leetcode-solution/46.Permutations.cpp	/^    void traverse(vector<int> nums, int idx) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
