@@ -22,6 +22,7 @@ Front	/home/roy/codes/Leetcode-solution/622.Design_Circular_Queue.cpp	/^    int 
 generateMatrix	/home/roy/codes/Leetcode-solution/59.Spiral_Matrix_II.cpp	/^    vector<vector<int>> generateMatrix(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 getA	/home/roy/codes/Leetcode-solution/417.Pacific_Atlantic_Water_Flow.cpp	/^    bool getA = false;$/;"	m	language:C++	class:Solution	typeref:typename:bool	file:
 getAtlantic	/home/roy/codes/Leetcode-solution/417.Pacific_Atlantic_Water_Flow.cpp	/^    bool getAtlantic(int i, int j, int m, int n) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
+getHalf	/home/roy/codes/Leetcode-solution/108.Convert_Sorted_Array_to_Binary_Search_Tree.cpp	/^    void getHalf(TreeNode* root, int head, int tail, vector<int> nums) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 getP	/home/roy/codes/Leetcode-solution/417.Pacific_Atlantic_Water_Flow.cpp	/^    bool getP = false;$/;"	m	language:C++	class:Solution	typeref:typename:bool	file:
 getPacific	/home/roy/codes/Leetcode-solution/417.Pacific_Atlantic_Water_Flow.cpp	/^    bool getPacific(int i, int j) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 getPermutation	/home/roy/codes/Leetcode-solution/60.Permutation_Sequence.cpp	/^    string getPermutation(int n, int k) {$/;"	f	language:C++	class:Solution	typeref:typename:string	file:
@@ -29,6 +30,7 @@ groupAnagrams	/home/roy/codes/Leetcode-solution/49.Group_Anagrams.cpp	/^    vect
 hammingWeight	/home/roy/codes/Leetcode-solution/191.Number_of_1_Bits.cpp	/^    int hammingWeight(uint32_t n) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
 head	/home/roy/codes/Leetcode-solution/622.Design_Circular_Queue.cpp	/^    queueBlock* head;$/;"	m	language:C++	class:MyCircularQueue	typeref:typename:queueBlock *	file:
 init	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^    void init () {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+Insert	/home/roy/codes/Leetcode-solution/108.Convert_Sorted_Array_to_Binary_Search_Tree.cpp	/^    void Insert(TreeNode* node, int val) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 insert	/home/roy/codes/Leetcode-solution/57.Insert_Interval.cpp	/^        vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 isEmpty	/home/roy/codes/Leetcode-solution/622.Design_Circular_Queue.cpp	/^    bool isEmpty() {$/;"	f	language:C++	class:MyCircularQueue	typeref:typename:bool	file:
 isFull	/home/roy/codes/Leetcode-solution/622.Design_Circular_Queue.cpp	/^    bool isFull() {$/;"	f	language:C++	class:MyCircularQueue	typeref:typename:bool	file:
@@ -72,6 +74,7 @@ search	/home/roy/codes/Leetcode-solution/33.Search_in_Rotated_Sorted_Array.cpp	/
 searchRange	/home/roy/codes/Leetcode-solution/34.Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp	/^    vector<int> searchRange(vector<int>& nums, int target) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 singleMultiply	/home/roy/codes/Leetcode-solution/43.Multiply_Strings.cpp	/^    vector<int> singleMultiply(int digit1, int digit2, int carrier) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 Solution	/home/roy/codes/Leetcode-solution/101.Symmetric_Tree.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/108.Convert_Sorted_Array_to_Binary_Search_Tree.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/1329.Sort_the_Matrix_Diagonally.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/15.3Sum.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/17.Letter_Combinations_of_a_Phone_Number.cpp	/^class Solution {$/;"	c	language:C++	file:
@@ -117,6 +120,7 @@ Solution	/home/roy/codes/Leetcode-solution/67.Add_Binary.cpp	/^class Solution {$
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveNQueens	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    vector<vector<string>> solveNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<string>>	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
+sortedArrayToBST	/home/roy/codes/Leetcode-solution/108.Convert_Sorted_Array_to_Binary_Search_Tree.cpp	/^    TreeNode* sortedArrayToBST(vector<int>& nums) {$/;"	f	language:C++	class:Solution	typeref:typename:TreeNode *	file:
 sortTemplate	/home/roy/codes/Leetcode-solution/1329.Sort_the_Matrix_Diagonally.cpp	/^    void sortTemplate(int i1, int j1, vector<vector<int>>& mat) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
 spiralOrder	/home/roy/codes/Leetcode-solution/54.Spiral_Matrix.cpp	/^    vector<int> spiralOrder(vector<vector<int>>& matrix) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 strStr	/home/roy/codes/Leetcode-solution/28.Implement_strStr.cpp	/^    int strStr(string haystack, string needle) {$/;"	f	language:C++	class:Solution	typeref:typename:int	file:
