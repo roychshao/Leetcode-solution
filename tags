@@ -19,6 +19,7 @@ extract	/home/roy/codes/Leetcode-solution/60.Permutation_Sequence.cpp	/^    int 
 findSubstring	/home/roy/codes/Leetcode-solution/30.Substring_with_Concatenation_of_All_Words.cpp	/^    vector<int> findSubstring(string s, vector<string>& words) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<int>	file:
 fourSum	/home/roy/codes/Leetcode-solution/18.4Sum.cpp	/^        vector<vector<int>> fourSum(vector<int>& v, int &k) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 Front	/home/roy/codes/Leetcode-solution/622.Design_Circular_Queue.cpp	/^    int Front() {$/;"	f	language:C++	class:MyCircularQueue	typeref:typename:int	file:
+fullJustify	/home/roy/codes/Leetcode-solution/68.Text_Justification.cpp	/^        vector<string> fullJustify(vector<string>& words, int maxWidth) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<string>	file:
 generateMatrix	/home/roy/codes/Leetcode-solution/59.Spiral_Matrix_II.cpp	/^    vector<vector<int>> generateMatrix(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<int>>	file:
 getA	/home/roy/codes/Leetcode-solution/417.Pacific_Atlantic_Water_Flow.cpp	/^    bool getA = false;$/;"	m	language:C++	class:Solution	typeref:typename:bool	file:
 getAtlantic	/home/roy/codes/Leetcode-solution/417.Pacific_Atlantic_Water_Flow.cpp	/^    bool getAtlantic(int i, int j, int m, int n) {$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
@@ -117,6 +118,7 @@ Solution	/home/roy/codes/Leetcode-solution/64.Minimum_Path_Sum.cpp	/^class Solut
 Solution	/home/roy/codes/Leetcode-solution/65.Valid_Number.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/66.Plus_One.cpp	/^class Solution {$/;"	c	language:C++	file:
 Solution	/home/roy/codes/Leetcode-solution/67.Add_Binary.cpp	/^class Solution {$/;"	c	language:C++	file:
+Solution	/home/roy/codes/Leetcode-solution/68.Text_Justification.cpp	/^class Solution {$/;"	c	language:C++	file:
 solve	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    bool solve(int i,int j,vector<vector<char>> &board){$/;"	f	language:C++	class:Solution	typeref:typename:bool	file:
 solveNQueens	/home/roy/codes/Leetcode-solution/51.N-Queens.cpp	/^    vector<vector<string>> solveNQueens(int n) {$/;"	f	language:C++	class:Solution	typeref:typename:vector<vector<string>>	file:
 solveSudoku	/home/roy/codes/Leetcode-solution/37.Sudoku_Solver.cpp	/^    void solveSudoku(vector<vector<char>>& board) {$/;"	f	language:C++	class:Solution	typeref:typename:void	file:
