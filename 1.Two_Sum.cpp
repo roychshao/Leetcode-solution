@@ -25,3 +25,5 @@ public:
     return ans;
     }
 };
+
+// test vim-fugitive
